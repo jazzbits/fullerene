@@ -1,6 +1,6 @@
 # Fullerene Magic Sum Configurations
 
-This repository  developed as part of my research on vertex-integer assignments in carbon fullerenes. 
+This repository  developed as part of my research on vertex integer assignments in carbon fullerenes. 
 The goal is to discover configurations that produce a uniform “magic sum” across all faces, 
 with implications for material engineering and structural analysis.
 
